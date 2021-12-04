@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FF29A7FE-9E38-4D64-89B6-234DAB0F41F8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myAppQuiz4/myQuizPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9 - 3cc5a46b114ebd94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; myAppQuiz4.myQuizPage"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9 - 1b06cb36f42b1ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; myAppQuiz4.myQuizPage"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9 - 9013b44ea6ec8fe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;myAppQuiz4.myQuizPage&gt;"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9 - bc46e62268866863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;myAppQuiz4.myQuizPage&gt;"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "C96DAE95-2FDB-41D7-AF9A-A583ECF065E9 - da60505aeadcda4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.__deallocating_deinit"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36EE42BA-3B82-4281-93B9-33E43E72C411"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myAppQuiz4/myQuizPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "myQuizPage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "36EE42BA-3B82-4281-93B9-33E43E72C411 - bba1cb1f18ad82c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.quiz.getter : myAppQuiz4.Quiz"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "36EE42BA-3B82-4281-93B9-33E43E72C411 - 1b06cb36f42b1ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; myAppQuiz4.myQuizPage"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "36EE42BA-3B82-4281-93B9-33E43E72C411 - bc46e62268866863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myAppQuiz4.myQuizPage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;myAppQuiz4.myQuizPage&gt;"
+                  moduleName = "myAppQuiz4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/reenadgh/Desktop/Swift/myAppQuiz4/myAppQuiz4/myQuizPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
